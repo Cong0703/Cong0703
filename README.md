@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cong0703
+- 👋 Hi, I’m Công
 - 👀 I’m interested in embedded programming
 - 🌱 I’m currently learning  HUST
 - 📫 How to reach me : 
